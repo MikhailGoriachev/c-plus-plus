@@ -1,0 +1,14 @@
+(123456)
+
+( тут ( может { быть [](произвольный) текст { например }[ такой]}))
+
+( тут ( может { быть [](произвольный) текст { например }[ такой]})
+))))
+fgdghdf;sg
+
+
+cout << color(errorPosition} == -1 (? CYAN_ON_BLACK : RED_ON_BLACK);
+
+cout << color(errorPosition == -1 ? CYAN_ON_BLACK : RED_ON_BLACK);
+
+cout << color(errorPosition == -1 ? CYAN_ON_BLACK : RED_ON_BLACK) << "    | " << color(cl);

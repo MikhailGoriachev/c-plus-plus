@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\Task 2. Library">
+      <UniqueIdentifier>{75c12ff2-561a-4f53-877f-a3d9ae3da0aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Task 2. Library">
+      <UniqueIdentifier>{0c734c04-dc37-4d94-a724-e867a8da910f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Task 1. Vector">
+      <UniqueIdentifier>{ed7d326c-73e6-4344-92eb-a2d24b8fef4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Task 1. Vector">
+      <UniqueIdentifier>{2918c721-e07c-44ac-ab7c-e114b070cc56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Task 3. Mobile station">
+      <UniqueIdentifier>{41b21b62-1666-42f6-a927-a19afccc99ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Task 3. Mobile station">
+      <UniqueIdentifier>{5232cfe3-11d2-463b-81ad-9d7e8b10538b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 2. Library\Book.cpp">
+      <Filter>Исходные файлы\Task 2. Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 2. Library\Library.cpp">
+      <Filter>Исходные файлы\Task 2. Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 3. Mobile station\Bill.cpp">
+      <Filter>Исходные файлы\Task 3. Mobile station</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 3. Mobile station\DateTime.cpp">
+      <Filter>Исходные файлы\Task 3. Mobile station</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 3. Mobile station\ListPayer.cpp">
+      <Filter>Исходные файлы\Task 3. Mobile station</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 3. Mobile station\Payer.cpp">
+      <Filter>Исходные файлы\Task 3. Mobile station</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Colors.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuItem.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Palette.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Task 2. Library\Book.h">
+      <Filter>Файлы заголовков\Task 2. Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Task 2. Library\Library.h">
+      <Filter>Файлы заголовков\Task 2. Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Task 3. Mobile station\ListPayer.h">
+      <Filter>Файлы заголовков\Task 3. Mobile station</Filter>
+    </ClInclude>
+    <ClInclude Include="Task 3. Mobile station\Bill.h">
+      <Filter>Файлы заголовков\Task 3. Mobile station</Filter>
+    </ClInclude>
+    <ClInclude Include="Task 3. Mobile station\DateTime.h">
+      <Filter>Файлы заголовков\Task 3. Mobile station</Filter>
+    </ClInclude>
+    <ClInclude Include="Task 3. Mobile station\Payer.h">
+      <Filter>Файлы заголовков\Task 3. Mobile station</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="saveVector.bin">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+  </ItemGroup>
+</Project>
